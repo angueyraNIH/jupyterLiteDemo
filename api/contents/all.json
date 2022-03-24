@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T18:32:33.812003Z",
+      "format": null,
+      "last_modified": "2022-03-24T18:31:17.343074Z",
+      "mimetype": null,
+      "name": "dr_photoPlotter_Adult.ipynb",
+      "path": "dr_photoPlotter_Adult.ipynb",
+      "size": 16376,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T18:32:33.800002Z",
+      "format": null,
+      "last_modified": "2022-03-24T18:32:33.800002Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T18:32:33.820003Z",
+      "format": null,
+      "last_modified": "2022-03-24T18:32:33.820003Z",
+      "mimetype": null,
+      "name": "examples",
+      "path": "examples",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T18:32:33.812003Z",
+      "format": null,
+      "last_modified": "2022-03-24T18:31:17.347074Z",
+      "mimetype": null,
+      "name": "dr_photoPlotter_Nerli2022.ipynb",
+      "path": "dr_photoPlotter_Nerli2022.ipynb",
+      "size": 9344,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T18:32:33.820003Z",
+      "format": null,
+      "last_modified": "2022-03-24T18:31:17.347074Z",
+      "mimetype": "text/x-python",
+      "name": "fx_RNAseqPlotters.py",
+      "path": "fx_RNAseqPlotters.py",
+      "size": 25705,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T18:32:33.647992Z",
+      "format": null,
+      "last_modified": "2022-03-24T18:32:31.467851Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 1300,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T18:32:33.820003Z",
+      "format": null,
+      "last_modified": "2022-03-24T18:31:17.347074Z",
+      "mimetype": null,
+      "name": "juanPlot-0a2-py2.py3-none-any.whl",
+      "path": "juanPlot-0a2-py2.py3-none-any.whl",
+      "size": 6020,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T18:32:33.820003Z",
+  "format": "json",
+  "last_modified": "2022-03-24T18:32:33.820003Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
